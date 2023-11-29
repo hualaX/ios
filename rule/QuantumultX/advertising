@@ -1,0 +1,7 @@
+#
+Host, feed-image.baidu.com, reject
+host, pgdt.ugdtimg.com, reject
+host, fc-video.cdn.bcebos.com, reject
+host, pgdt.ugdtimg.com, reject
+host, mooc-image.nosdn.127.net, reject
+host, images.pinduoduo.com, reject
