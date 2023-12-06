@@ -1,0 +1,7 @@
+#YY
+domain-suffix, feed-image.baidu.com, reject
+domain-suffix, pgdt.ugdtimg.com, reject
+domain-suffix, fc-video.cdn.bcebos.com, reject
+domain-suffix, pgdt.ugdtimg.com, reject
+domain-suffix, mooc-image.nosdn.127.net, reject
+domain-suffix, images.pinduoduo.com, reject
