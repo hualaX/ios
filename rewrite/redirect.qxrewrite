@@ -2,7 +2,7 @@
 #!desc=
 #!author=hualaX
 #!homepage=https://github.com/hualaX
-#!icon=https://raw.githubusercontent.com/hualaX/ios/main/icon/anni.png
+#!icon=https://raw.githubusercontent.com/hualaX/ios/main/icon/personal.png
 
 ^https?:\/\/(www.)?(g|google)\.cn url 302 https://www.google.com
 
