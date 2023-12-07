@@ -2,6 +2,6 @@
 domain-suffix, feed-image.baidu.com, ad
 domain-suffix, pgdt.ugdtimg.com, ad
 domain-suffix, fc-video.cdn.bcebos.com, ad
-domain-suffix, pgdt.ugdtimg.com, reject
+domain-suffix, pgdt.ugdtimg.com, ad
 domain-suffix, mooc-image.nosdn.127.net, ad
 domain-suffix, images.pinduoduo.com, ad
