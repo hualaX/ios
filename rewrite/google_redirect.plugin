@@ -1,0 +1,7 @@
+#name = Google重定向
+#author = hualaX
+
+^https?:\/\/(www.)?(g|google)\.cn url 302 https://www.google.com
+
+
+hostname = www.google.cn
