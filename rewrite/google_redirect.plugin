@@ -3,7 +3,9 @@
 #!author=hualaX
 #!homepage=https://github.com/hualaX
 #!icon=https://raw.githubusercontent.com/hualaX/ios/main/icon/anni.png
+
 [Rewrite]
 ^https?:\/\/(www.)?(g|google)\.cn https://www.google.com 302
+
 [MITM]
 hostname = www.google.cn
