@@ -1,7 +1,7 @@
 #!name = Google重定向
-#!desc =
+#!desc = Google重定向
 #!author = hualaX
-#!homepapg = https://github.com/hualaX
+#!homepage = https://github.com/hualaX
 [Rewrite]
 ^https?:\/\/(www.)?(g|google)\.cn https://www.google.com 302
 [MITM]
