@@ -1,7 +1,7 @@
-#!name = Google重定向
-#!desc = Google重定向
-#!author = hualaX
-#!homepage = https://github.com/hualaX
+#!name=Google重定向
+#!desc=将www.google.cn定向至ww.google.com
+#!author=hualaX
+#!homepage=https://github.com/hualaX
 #!icon=https://raw.githubusercontent.com/hualaX/ios/main/icon/anni.png
 [Rewrite]
 ^https?:\/\/(www.)?(g|google)\.cn https://www.google.com 302
