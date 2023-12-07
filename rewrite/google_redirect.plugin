@@ -4,5 +4,5 @@
 [Rewrite_local]
 ^https?:\/\/(www.)?(g|google)\.cn url 302 https://www.google.com
 
-[MITIM]
+[MITM]
 hostname = www.google.cn
