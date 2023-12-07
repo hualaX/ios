@@ -1,7 +1,8 @@
 #name = Google重定向
 #author = hualaX
 
+[Rewrite_local]
 ^https?:\/\/(www.)?(g|google)\.cn url 302 https://www.google.com
 
-
+[MITIM]
 hostname = www.google.cn
