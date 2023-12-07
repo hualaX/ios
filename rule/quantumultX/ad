@@ -1,7 +1,0 @@
-#YY
-host-suffix, feed-image.baidu.com, reject
-host-suffix, pgdt.ugdtimg.com, reject
-host-suffix, fc-video.cdn.bcebos.com, reject
-host-suffix, pgdt.ugdtimg.com, reject
-host-suffix, mooc-image.nosdn.127.net, reject
-host-suffix, images.pinduoduo.com, reject
