@@ -11,7 +11,7 @@
 ## 特别鸣谢
 * [Sliverkiss](https://github.com/Sliverkiss)
 * [Centralmatrix3](https://github.com/Centralmatrix3)
-* [blackmatrix7](https://www.github.com/blackmatrix7.com)
+* [blackmatrix7](https://www.github.com/blackmatrix7)
 
 
 ## 免责声明：
