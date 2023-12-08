@@ -9,8 +9,9 @@
 * [Shadowrocket配置](https://github.com/hualaX/ios/tree/main/shadowrocket_profile.conf)
 
 ## 特别鸣谢
-* [@Sliverkiss](https://github.com/Sliverkiss)
-* [@Centralmatrix3](https://github.com/Centralmatrix3)
+* [Sliverkiss](https://github.com/Sliverkiss)
+* [Centralmatrix3](https://github.com/Centralmatrix3)
+* [blackmatrix7](https://www.github.com/blackmatrix7.com)
 
 
 ## 免责声明：
