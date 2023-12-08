@@ -11,6 +11,7 @@
 ## 特别鸣谢
 **排名不分前后**
 * [RuCu6](https://www.github.com/RuCu6)
+* [chxm1023](https//:www.github.com/chxm1023)
 * [Sliverkiss](https://github.com/Sliverkiss)
 * [Centralmatrix3](https://github.com/Centralmatrix3)
 * [blackmatrix7](https://www.github.com/blackmatrix7)
