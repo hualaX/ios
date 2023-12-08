@@ -9,9 +9,12 @@
 * [Shadowrocket配置](https://github.com/hualaX/ios/tree/main/shadowrocket_profile.conf)
 
 ## 特别鸣谢
+* 排名不分前后
+* [RuCu6](https://www.github.com/RuCu6)
 * [Sliverkiss](https://github.com/Sliverkiss)
 * [Centralmatrix3](https://github.com/Centralmatrix3)
 * [blackmatrix7](https://www.github.com/blackmatrix7)
+* [app2smile](https://www.github.com/app2mile)
 
 
 ## 免责声明：
