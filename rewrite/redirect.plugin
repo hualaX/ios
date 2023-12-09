@@ -4,7 +4,7 @@
 #!author=hualaX
 #!homepage=https://github.com/hualaX
 #!icon=https://raw.githubusercontent.com/hualaX/ios/main/icon/personal.png
-#!date=2023-12-09 21:36
+#!date=2023-12-09 
 
 [Rewrite]
 ^https?:\/\/(www.)?(g|google)\.cn https://www.google.com 302
