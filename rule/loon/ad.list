@@ -1,7 +1,7 @@
 #YY
-domain-suffix, feed-image.baidu.com, ad
-domain-suffix, pgdt.ugdtimg.com, ad
-domain-suffix, fc-video.cdn.bcebos.com, ad
-domain-suffix, pgdt.ugdtimg.com, ad
-domain-suffix, mooc-image.nosdn.127.net, ad
-domain-suffix, images.pinduoduo.com, ad
+DOMAIN-SUFFIX, feed-image.baidu.com, ad
+DOMAIN-SUFFIX, pgdt.ugdtimg.com, ad
+DOMAIN-SUFFIX, fc-video.cdn.bcebos.com, ad
+DOMAIN-SUFFIX, pgdt.ugdtimg.com, ad
+DOMAIN-SUFFIX, mooc-image.nosdn.127.net, ad
+DOMAIN-SUFFIX, images.pinduoduo.com, ad
